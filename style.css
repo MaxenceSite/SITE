@@ -1,0 +1,124 @@
+p {color: rgb(129, 6, 243); font-style: italic;}
+h1 {color: blue;font-size: 50px;}
+p{font-size: 25px;}
+h1{font-size: 50px; text-align: center}
+.tonton{color: rgb(129, 6, 243);}
+.tonton2{font-size: 30px;}
+.Maxence{font-size: 80px;}
+    
+    
+     p{ font-family: "Playwrite IS", cursive; font-weight: 400;}
+      p{font-optical-sizing: auto;}
+    p  {font-style: normal;border-top-style: 10px solid red;text-align: center;
+    } 
+    h1{ font-family: "Playwrite IS", cursive;}
+    h1{font-optical-sizing: auto;}
+  h1{font-style: normal; font-weight: 500;}
+h2{ font-size: 50px;font-optical-sizing: auto ;font-style: normal;  }
+  h3{ font-family: "Playwrite IS", cursive;}
+    h3{font-optical-sizing: auto;font-size: 50px;}
+  h3{font-style: normal; font-weight: 500;color:blue;text-align: center;}
+  h4{ font-family: "Playwrite IS", cursive;}
+  h4{font-optical-sizing: auto;font-size: 50px;}
+h4{font-style: normal; font-weight: 500; text-align: center;color: blue;}
+a{text-align:center}
+h1{background:linear-gradient(to left,rgb(170, 5, 182), #fd8fff )}
+body{background-image: url(images/fond\ rouge.jpg);}
+.titre{
+    border: 10px solid red;border-radius: 90px 90px 90px 90px ;
+}
+.tonton{
+    border-top-style: 10px solid red; border-radius:10px 40px 10px 40px ;
+} 
+.image_tonton{
+    text-align: center;}
+h2{text-align: center}
+h2{font-weight: 500;}
+h2{ font-family: "Playwrite IS",cursive}
+h2{color: blue;}
+h2{ font-size: 50px}
+h2{background:linear-gradient(to left,rgb(170, 5, 182), #fd8fff )}
+h3{background:linear-gradient(to left,rgb(170, 5, 182), #fd8fff )}
+h4{background:linear-gradient(to left,rgb(170, 5, 182), #fd8fff )}
+.para2{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+.para3{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+.para4{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+.parasd1{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+a{background:linear-gradient( to right, rgb(9, 186, 206),rgb(0, 225, 255)); border-radius:20px 20px 20px 20px;}
+h5{background:linear-gradient(to left,rgb(170, 5, 182), #fd8fff )}
+h5{font-style: normal; font-weight: 500; text-align: center;color: blue;}
+h5{ font-family: "Playwrite IS", cursive;}
+h5{font-optical-sizing: auto;font-size: 50px;}
+.para5{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+.para6{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+.paradrole{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+ol{ font-family: "Playwrite IS", cursive; font-weight: 400;}
+      ol{font-optical-sizing: auto;}
+    ol {font-style: normal;border-top-style: 10px solid red;text-align: center;
+    } 
+    ol{color: rgb(129, 6, 243); font-style: italic;}
+    .jsp{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+    .Vince{background-size: cover; color:blue}
+
+    .menu {
+      display: flex;              /* Transformation en flexbox */
+      padding:0;                  /* Suppression des marges internes */
+  }
+
+  .menu li {
+    list-style-type: none ;       /* Suppression des puces */
+}
+
+.menu a {
+  display:block;                /* Transformation en block */
+  min-width: 120px;             /* Largeur minimale des liens */
+  background-color: #e9e2e282;
+}
+.menu a {
+  display:block;                /* Transformation en block */
+  min-width: 120px;             /* Largeur minimale des liens */   
+  
+  margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
+  padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
+  text-align:center;           /* Centrage du texte */   
+  color: #da0bda8e;                  /* Couleur du texte */
+  text-decoration: none;        /* Suppression du soulignement */
+  border: 1px solid #f70505;       /* Ajout d'une bordure */
+  border-radius: 4px;           /* Arrondis des bordures */
+  background-color: #6c656598;
+}
+.menu{
+  display: flex;              /* Transformation en flexbox */
+  padding:0;                  /* Suppression des marges internes */
+  background-color: #6c656598;     /* Ajout de la couleur d'arrière-plan */
+  justify-content: center     /* Alignements des liens dans le menu */
+  ;border-radius: 90px 90px 90px 90px;
+}
+.menu a:hover {
+  background-color: #ffffffb4;
+  color: #e41515;
+  border-color: #b9bebb9f;
+}
+.menu a {
+  display:block;                /* Transformation en block */
+  min-width: 120px;             /* Largeur minimale des liens */   
+  
+  margin: 0.5rem;               /* Marges externes (1 valeurs = 4 directions) */
+  padding: 0.4rem 0;            /* Marges internes (2 valeurs = haut/bas et gauche/droite)*/
+  text-align: center;           /* Centrage du texte */   
+  color: #4100f3fd;                  /* Couleur du texte */
+  background-color: #6c656598;       /*couleur de l'arrière plan*/
+  text-decoration: none;        /* Suppression du soulignement */
+  border: 1px solid #e3e3e398;       /* Ajout d'une bordure */
+  border-radius: 4px;           /* Arrondis des bordures */
+  transition: all 2s ;          /* Ajout des effets de transition */
+background:rgba(255, 255, 255, 0.275);
+}
+  
+  .polonais{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+  .acceuil{background-color: #fef2fe5e;}
+  .college{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+  .Clg{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+ .echecs{background-image: url(images/echecF.jpg);}
+ .paraechec{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+ .Pe{background-color: rgba(240, 248, 255, 0.565) ;border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
