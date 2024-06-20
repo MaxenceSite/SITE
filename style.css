@@ -124,3 +124,11 @@ background:rgba(255, 255, 255, 0.275);
  .Pe{background-color: rgba(240, 248, 255, 0.565) ;border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
  p{color: #3b3b3b;}
  h5{font-size: 50px;}
+ .jv{
+  background:linear-gradient(to left,rgb(50, 50, 240), #fcfcfc )  
+  ; border-radius:90px 90px 90px 90px;
+ }
+ .ps{
+  background-image: url(images/Les-meilleurs-fonds-decran-Play.jpg);
+ }
+ .Pe2{background-color: rgba(0, 20, 241, 0.565) ;border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
