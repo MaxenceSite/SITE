@@ -1,8 +1,8 @@
-p {color: rgb(158, 155, 161); font-style: italic;}
+p {color: rgb(0, 0, 0); font-style: italic;}
 h1 {color: blue;font-size: 50px;}
 p{font-size: 25px;}
 h1{font-size: 50px; text-align: center}
-.tonton{color: rgb(121, 120, 123);}
+.tonton{color: rgb(79, 79, 80);}
 .tonton2{font-size: 30px;}
 .Maxence{font-size: 80px;}
     
@@ -21,9 +21,9 @@ h2{ font-size: 50px;font-optical-sizing: auto ;font-style: normal;  }
   h4{ font-family: "Playwrite IS", cursive;}
   h4{font-optical-sizing: auto;font-size: 50px;}
 h4{font-style: normal; font-weight: 500; text-align: center;color: blue;}
-a{text-align:center}
+a{text-align:center;color: #656465; }
 h1{background:linear-gradient(to left,rgb(230, 221, 230), #4d4b4d )}
-body{background-image: url(images/fond\ rouge.jpg);}
+body{background-image: url(images/fond\ test.jpg);}
 .titre{
     border: 10px solid red;border-radius: 90px 90px 90px 90px ;
 }
@@ -36,7 +36,7 @@ h2{text-align: center}
 h2{font-weight: 500;}
 h2{ font-family: "Playwrite IS",cursive}
 h2{color: blue;}
-h2{ font-size: 50px}
+h2{ font-size: 90px}
 h2{background:linear-gradient(to left,rgb(225, 220, 225), #656465 )}
 h3{background:linear-gradient(to left,rgb(228, 221, 229), #6e6c6e )}
 h4{background:linear-gradient(to left,rgb(234, 227, 234), #656365 )}
@@ -48,7 +48,7 @@ a{background:linear-gradient( to right, rgb(9, 186, 206),rgb(0, 225, 255)); bord
 h5{background:linear-gradient(to left,rgb(251, 249, 251), #7a797a )}
 h5{font-style: normal; font-weight: 500; text-align: center;color: blue;}
 h5{ font-family: "Playwrite IS", cursive;}
-h5{font-optical-sizing: auto;font-size: 50px;}
+h5{font-optical-sizing: auto;font-size: 190px;}
 .para5{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
 .para6{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
 .paradrole{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
@@ -122,3 +122,5 @@ background:rgba(255, 255, 255, 0.275);
  .echecs{background-image: url(images/echecF.jpg);}
  .paraechec{border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
  .Pe{background-color: rgba(240, 248, 255, 0.565) ;border-top-style: 10px solid red ; border-radius:90px 90px 90px 90px;}
+ p{color: #3b3b3b;}
+ h5{font-size: 50px;}
